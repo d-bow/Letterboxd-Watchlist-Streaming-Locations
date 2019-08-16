@@ -22,7 +22,7 @@ The films are listed in order from the oldest on your watchlist to newly added.
 If a film is available to stream, it includes a ✅ and specifies where it can be watched.  
 If a film is not available to stream, it includes a ❌ and states that it can't be found on the services you specified.  
 If the movie couldn't be located at all (might still be in theatres, too obscure, etc.), it includes a ❓.  
-Check out ilikecandy's_Watchlist.txt for a full sample file.
+Check out [ilikecandy's_Watchlist.txt](ilikecandy's_Watchlist.txt) for a full sample file.
 
 ### Toggling Settings
 Settings can be changed in the `Settings` section of the script. Explanations follow below.
