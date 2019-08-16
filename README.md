@@ -7,6 +7,8 @@ The script includes a progress bar that shows how far along it is and how long i
 It saves output to the current directory once completed:
 ![](Letterboxd-Completed.png)
 
+NOTE: Make sure your console is large enough to accomodate for the progress bar. Otherwise, instead of updating the bar with every new film, it outputs a new progress bar, filling up the console and ruining my beautiful formatting.
+
 ### Making Sense of the Output
 The output starts with some basic statistics:
 * How many movies on the watchlist
