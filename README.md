@@ -56,6 +56,4 @@ def getStreamsDecider(htmlData):
             streaming_options.append(stream[0])
         
     return streaming_options
-
-Currently allows users to toggle several streaming services (Netflix, Amazon Prime Video, Hulu), and could easily add others.
 ```
