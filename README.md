@@ -11,7 +11,7 @@ It saves output to the current directory once completed:
 The output starts with some basic statistics:
 * How many movies on the watchlist
 * How many are available to stream
-..* Broken down by streaming services
+  * Broken down by streaming services
 * How many movies were located vs. How many it couldn't find
 * When the output was last updated (when script was last ran)
 
