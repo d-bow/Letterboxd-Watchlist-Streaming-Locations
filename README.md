@@ -1,4 +1,4 @@
-# Letterboxd-Watchlist-Streamining-Locations
+# Letterboxd-Watchlist-Streaming-Locations
 Python script that finds where Letterboxd users can stream films on their watchlist. 
 
 The script includes a progress bar that shows how far along it is and how long it expects to take:
